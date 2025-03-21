@@ -1,1 +1,2 @@
-# Zenith_Hackaton_11
+# K-Hackaton 11
+객체탐지를 사용한 쓰레기 무단 투기 감지 시스템
